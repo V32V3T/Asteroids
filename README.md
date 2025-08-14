@@ -2,7 +2,7 @@
 
 
 A classic Asteroids arcade game implementation built with Python and Pygame. Navigate through space, destroy asteroids, and avoid collisions to survive!
-Play it yourself by downloading the main.exe file from : https://drive.google.com/drive/folders/1KTxmI7f_ncApamF9ioS5KLvlTJVWYxzw?usp=sharing
+Play it yourself by downloading the main.exe file from : https://github.com/V32V3T/Asteroids/releases/tag/Game
 
 ## 🎮 Game Features
 
